@@ -21,7 +21,7 @@ alignTextRight =
 
 btnStyle : List (String, String)
 btnStyle =
-  [ ("width", "50px"),
+  [ ("width", "60px"),
     ("height", "50px"),
     ("border", "1px solid transparent"),
     ("border-color", "#AAA"),
